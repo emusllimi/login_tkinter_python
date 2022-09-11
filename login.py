@@ -7,7 +7,7 @@ Label(root, text="Python Registration Form", font="ar 15 bold").grid(row=0, colu
 
 name = Label(root, text="Name")
 phone = Label(root, text="Phone")
-gender = Label(root, text="Gender")
+gender = Label(root, text="Sex")
 emergency = Label(root, text="Emergency")
 paymentmood = Label(root, text="Payment Mood")
 
